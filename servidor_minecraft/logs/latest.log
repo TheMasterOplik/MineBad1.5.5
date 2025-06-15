@@ -1244,3 +1244,7 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [08:33:49] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [08:33:49] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [08:34:31] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[08:34:43] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[08:35:01] [Server thread/INFO]: SimonPro74 burned to death
+[08:35:11] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[08:39:03] [Server thread/INFO]: SimonPro74 tried to swim in lava
