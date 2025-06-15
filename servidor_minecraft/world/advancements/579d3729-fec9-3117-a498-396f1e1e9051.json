@@ -618,6 +618,7 @@
       "minecraft:slime": "2025-06-04 19:52:39 +0000",
       "minecraft:evoker": "2025-06-14 04:36:52 +0000",
       "minecraft:phantom": "2025-06-05 21:55:35 +0000",
+      "minecraft:zombified_piglin": "2025-06-15 07:44:26 +0000",
       "minecraft:witch": "2025-06-10 22:37:08 +0000",
       "minecraft:wither_skeleton": "2025-06-15 07:14:57 +0000",
       "minecraft:husk": "2025-06-05 19:21:29 +0000",
@@ -886,15 +887,17 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-15 07:46:01 +0000",
       "mutton": "2025-06-03 20:47:20 +0000",
-      "apple": "2025-06-04 17:18:04 +0000",
       "bread": "2025-06-03 21:00:42 +0000",
+      "golden_apple": "2025-06-15 08:00:33 +0000",
       "cookie": "2025-06-15 06:12:37 +0000",
-      "potato": "2025-06-04 17:13:49 +0000",
       "glow_berries": "2025-06-10 22:46:59 +0000",
       "baked_potato": "2025-06-03 20:53:57 +0000",
       "beef": "2025-06-04 17:41:17 +0000",
       "melon_slice": "2025-06-05 18:26:02 +0000",
+      "apple": "2025-06-04 17:18:04 +0000",
+      "potato": "2025-06-04 17:13:49 +0000",
       "cooked_salmon": "2025-06-03 22:10:57 +0000",
       "pumpkin_pie": "2025-06-03 20:48:55 +0000"
     },
@@ -9473,21 +9476,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/bee": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "has_honey_bottle": "2025-06-15 06:46:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-06-15 06:23:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-15 06:39:12 +0000"
+      "has_glow_ink_sac": "2025-06-15 05:02:02 +0000"
     },
     "done": true
   },
@@ -9497,39 +9488,9 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-06-15 06:39:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-15 06:39:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-06-15 06:02:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-15 06:39:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-06-15 05:04:00 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-15 06:39:12 +0000"
     },
     "done": true
   },
@@ -9539,15 +9500,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+  "mcwlights:recipes/copper_stuff": {
     "criteria": {
-      "has_snout_armor_trim_smithing_template": "2025-06-15 07:19:15 +0000"
+      "has_wood": "2025-06-15 05:04:00 +0000"
     },
     "done": true
   },
-  "mcwpaths:recipes/mossy_cobblestone": {
+  "minecraft:story/follow_ender_eye": {
     "criteria": {
-      "has_wood": "2025-06-15 06:39:12 +0000"
+      "in_stronghold_betterstrongholds": "2025-06-15 05:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-15 06:02:55 +0000"
     },
     "done": true
   },
@@ -9557,15 +9524,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-06-15 06:39:12 +0000"
+      "has_polished_andesite": "2025-06-15 06:02:55 +0000"
     },
     "done": true
   },
-  "minecraft:story/follow_ender_eye": {
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
-      "in_stronghold_betterstrongholds": "2025-06-15 05:56:26 +0000"
+      "has_polished_andesite": "2025-06-15 06:02:55 +0000"
     },
     "done": true
   },
@@ -9581,33 +9548,51 @@
     },
     "done": true
   },
-  "mcwlights:recipes/copper_stuff": {
+  "minecraft:recipes/misc/map": {
     "criteria": {
-      "has_wood": "2025-06-15 05:04:00 +0000"
+      "has_compass": "2025-06-15 06:23:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "has_glow_ink_sac": "2025-06-15 05:02:02 +0000"
+      "has_mossy_cobblestone": "2025-06-15 06:39:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
     "criteria": {
-      "has_honey_bottle": "2025-06-15 06:46:58 +0000"
+      "has_planks": "2025-06-15 06:39:12 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/wither": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-06-15 07:15:36 +0000"
+      "has_mossy_cobblestone": "2025-06-15 06:39:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/honey_block": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
-      "has_honey_bottle": "2025-06-15 06:46:58 +0000"
+      "has_mossy_cobblestone": "2025-06-15 06:39:12 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-15 06:39:12 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/mossy_cobblestone": {
+    "criteria": {
+      "has_wood": "2025-06-15 06:39:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-15 06:39:12 +0000"
     },
     "done": true
   },
@@ -9617,21 +9602,9 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-15 06:40:51 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/mossy_stone_brick_bridge": {
     "criteria": {
       "has_planks": "2025-06-15 06:39:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-06-15 06:02:55 +0000"
     },
     "done": true
   },
@@ -9641,33 +9614,9 @@
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-06-15 07:15:36 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-15 06:39:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-15 07:19:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/return_to_sender": {
-    "criteria": {
-      "killed_ghast": "2025-06-15 07:28:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-06-15 06:02:55 +0000"
     },
     "done": true
   },
@@ -9683,9 +9632,117 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-15 06:40:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-15 06:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-15 06:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-15 06:46:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-15 07:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-15 07:15:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-06-15 07:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-06-15 07:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-15 07:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-06-15 07:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-15 07:33:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-06-15 07:33:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-15 07:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-15 07:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-15 07:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-15 07:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-15 07:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-15 07:38:12 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/red_nether_bricks": {
+    "criteria": {
+      "has_planks": "2025-06-15 07:38:12 +0000"
     },
     "done": true
   },
