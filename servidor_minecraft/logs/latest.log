@@ -1252,3 +1252,7 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [08:47:56] [Server thread/INFO]: SimonPro74 was killed
 [08:47:56] [Server thread/INFO]: [badbalta: Killed SimonPro74]
 [08:57:34] [Server thread/INFO]: SimonPro74 was shot by Skeleton
+[09:11:23] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.37729354364455503
+[09:11:23] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.8963283400680666
+[09:11:23] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.4153161882768472
+[09:11:23] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.9342789154306956
