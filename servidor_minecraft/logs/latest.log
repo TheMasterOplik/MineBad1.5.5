@@ -1233,3 +1233,14 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [08:23:30] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [08:23:34] [Server thread/INFO]: Villager class_1646['Cartographer'/76674, l='ServerLevel[world]', x=1455.47, y=-65.00, z=-462.00] died, message: 'Cartographer was killed'
 [08:23:59] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[08:26:35] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[08:26:42] [Server thread/INFO]: badbalta was slain by Piglin
+[08:26:46] [Server thread/INFO]: SimonPro74 was slain by Piglin Brute
+[08:26:47] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[08:26:50] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[08:29:18] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[08:33:49] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[08:33:49] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[08:33:49] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[08:33:49] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[08:34:31] [Server thread/INFO]: SimonPro74 tried to swim in lava
