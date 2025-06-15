@@ -812,3 +812,4 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [04:47:32] [Server thread/INFO]: badbalta[/100.85.90.122:50738] logged in with entity id 1261 at (738.0398788379249, 117.0, -8683.314550605937)
 [04:47:32] [Server thread/INFO]: Loading config from file...
 [04:47:32] [Server thread/INFO]: badbalta joined the game
+[05:06:37] [Server thread/INFO]: Villager class_1646['Armorer'/227, l='ServerLevel[world]', x=714.41, y=90.00, z=-8299.40] died, message: 'Armorer was slain by Zombie'
