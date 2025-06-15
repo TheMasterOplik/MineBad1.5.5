@@ -607,27 +607,28 @@
       "minecraft:pillager": "2025-06-04 19:25:15 +0000",
       "minecraft:blaze": "2025-06-06 18:58:27 +0000",
       "minecraft:skeleton": "2025-06-03 21:47:18 +0000",
-      "minecraft:phantom": "2025-06-05 21:55:35 +0000",
-      "minecraft:witch": "2025-06-10 22:37:08 +0000",
       "minecraft:ravager": "2025-06-14 04:35:00 +0000",
-      "minecraft:husk": "2025-06-05 19:21:29 +0000",
       "minecraft:ghast": "2025-06-05 23:18:54 +0000",
       "minecraft:hoglin": "2025-06-07 20:52:20 +0000",
-      "minecraft:cave_spider": "2025-06-03 22:11:46 +0000",
-      "minecraft:piglin": "2025-06-05 22:56:13 +0000",
       "minecraft:vindicator": "2025-06-14 04:33:53 +0000",
-      "minecraft:stray": "2025-06-04 17:12:56 +0000",
-      "minecraft:enderman": "2025-06-11 06:57:02 +0000",
-      "minecraft:silverfish": "2025-06-15 05:59:20 +0000",
       "minecraft:magma_cube": "2025-06-06 18:54:20 +0000",
       "minecraft:spider": "2025-06-04 18:15:07 +0000",
       "minecraft:piglin_brute": "2025-06-05 23:19:49 +0000",
-      "minecraft:zombie": "2025-06-03 20:44:53 +0000",
       "minecraft:creeper": "2025-06-03 20:50:27 +0000",
-      "minecraft:drowned": "2025-06-05 19:03:24 +0000",
-      "minecraft:zombie_villager": "2025-06-04 18:11:08 +0000",
       "minecraft:slime": "2025-06-04 19:52:39 +0000",
-      "minecraft:evoker": "2025-06-14 04:36:52 +0000"
+      "minecraft:evoker": "2025-06-14 04:36:52 +0000",
+      "minecraft:phantom": "2025-06-05 21:55:35 +0000",
+      "minecraft:witch": "2025-06-10 22:37:08 +0000",
+      "minecraft:wither_skeleton": "2025-06-15 07:14:57 +0000",
+      "minecraft:husk": "2025-06-05 19:21:29 +0000",
+      "minecraft:cave_spider": "2025-06-03 22:11:46 +0000",
+      "minecraft:piglin": "2025-06-05 22:56:13 +0000",
+      "minecraft:stray": "2025-06-04 17:12:56 +0000",
+      "minecraft:enderman": "2025-06-11 06:57:02 +0000",
+      "minecraft:silverfish": "2025-06-15 05:59:20 +0000",
+      "minecraft:zombie": "2025-06-03 20:44:53 +0000",
+      "minecraft:drowned": "2025-06-05 19:03:24 +0000",
+      "minecraft:zombie_villager": "2025-06-04 18:11:08 +0000"
     },
     "done": false
   },
@@ -9538,6 +9539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-06-15 07:19:15 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/mossy_cobblestone": {
     "criteria": {
       "has_wood": "2025-06-15 06:39:12 +0000"
@@ -9592,6 +9599,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-15 07:15:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-06-15 06:46:58 +0000"
@@ -9628,9 +9641,27 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-15 07:15:36 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-15 06:39:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-15 07:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-06-15 07:28:48 +0000"
     },
     "done": true
   },
@@ -9649,6 +9680,12 @@
   "mcwbridges:recipes/mossy_stone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-15 06:39:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-15 07:15:36 +0000"
     },
     "done": true
   },
