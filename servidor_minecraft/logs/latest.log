@@ -1248,3 +1248,6 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [08:35:01] [Server thread/INFO]: SimonPro74 burned to death
 [08:35:11] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
 [08:39:03] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[08:47:39] [Server thread/WARN]: SimonPro74 moved wrongly!
+[08:47:56] [Server thread/INFO]: SimonPro74 was killed
+[08:47:56] [Server thread/INFO]: [badbalta: Killed SimonPro74]
