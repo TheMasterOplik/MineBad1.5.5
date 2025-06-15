@@ -1055,3 +1055,20 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [07:02:10] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
 [07:02:10] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [07:02:33] [Server thread/INFO]: SimonPro74 fell from a high place
+[07:03:38] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[07:07:17] [Server thread/INFO]: Villager class_1646['Leatherworker'/51786, l='ServerLevel[world]', x=2853.52, y=19.56, z=-8142.50] died, message: 'Leatherworker suffocated in a wall'
+[07:08:34] [Server thread/INFO]: Villager class_1646['Librarian'/51564, l='ServerLevel[world]', x=2832.55, y=8.94, z=-8114.65] died, message: 'Librarian burned to death'
+[07:11:40] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:11:40] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:11:40] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:11:40] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:11:40] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:11:41] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:11:41] [Server thread/INFO]: Villager class_1646['Cartographer'/53661, l='ServerLevel[world]', x=530.00, y=-65.00, z=-894.47] died, message: 'Cartographer was killed'
+[07:11:42] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:11:42] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:11:42] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:11:42] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:11:42] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:11:42] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[07:13:21] [Server thread/INFO]: SimonPro74 tried to swim in lava
