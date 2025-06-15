@@ -818,3 +818,6 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [05:41:55] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to 738.500000, 100.000000, -8289.500000]
 [05:42:07] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
 [05:42:11] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[05:43:44] [Server thread/INFO]: SimonPro74 was blown up by Creeper
+[05:43:48] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[05:47:22] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
