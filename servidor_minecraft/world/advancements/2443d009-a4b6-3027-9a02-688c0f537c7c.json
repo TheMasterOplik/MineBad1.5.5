@@ -724,6 +724,7 @@
       "minecraft:witch": "2025-06-05 20:06:13 +0000",
       "minecraft:wither_skeleton": "2025-06-06 19:01:39 +0000",
       "minecraft:ravager": "2025-06-14 04:37:23 +0000",
+      "minecraft:husk": "2025-06-15 06:41:04 +0000",
       "minecraft:ghast": "2025-06-11 18:15:04 +0000",
       "minecraft:hoglin": "2025-06-07 21:09:18 +0000",
       "minecraft:cave_spider": "2025-06-03 22:14:50 +0000",
@@ -8981,6 +8982,12 @@
   "mcwpaths:recipes/cherry": {
     "criteria": {
       "has_wood": "2025-06-14 04:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-06-15 06:39:23 +0000"
     },
     "done": true
   },

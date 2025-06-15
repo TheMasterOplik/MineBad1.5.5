@@ -821,3 +821,101 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [05:43:44] [Server thread/INFO]: SimonPro74 was blown up by Creeper
 [05:43:48] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
 [05:47:22] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[05:56:26] [Server thread/INFO]: badbalta has made the advancement [Eye Spy]
+[06:17:09] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[06:17:16] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[06:23:39] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[06:28:27] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[06:31:57] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[06:33:49] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[06:35:57] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[06:36:00] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[06:38:04] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[06:38:22] [Server thread/ERROR]: Couldn't load structure mvs:houses/deepslate_house
+net.minecraft.class_8911: Loading NBT data
+	at net.minecraft.class_2487.method_10581(class_2487.java:526) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_53889(class_2487.java:76) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_23240(class_2487.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_23262(class_2487.java:58) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2499$1.method_53895(class_2499.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2499$1.method_23249(class_2499.java:31) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2499$1.method_23262(class_2499.java:26) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487.method_10581(class_2487.java:520) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_53889(class_2487.java:76) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_23240(class_2487.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_23262(class_2487.java:58) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2507.method_52892(class_2507.java:185) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2507.method_10626(class_2507.java:180) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2507.method_10625(class_2507.java:105) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2507.method_10629(class_2507.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_15090(class_3485.java:228) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_44231(class_3485.java:218) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_15088(class_3485.java:131) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_44245(class_3485.java:109) ~[server-intermediary.jar:?]
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1740) ~[?:?]
+	at net.minecraft.class_3485.method_15094(class_3485.java:99) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_15091(class_3485.java:87) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.class_3781.method_27233(class_3781.java:85) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3781.method_16628(class_3781.java:125) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3790.<init>(class_3790.java:58) ~[server-intermediary.jar:?]
+	at net.minecraft.class_6624.method_38711(class_6624.java:73) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3449.method_41621(class_3449.java:67) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2852.method_12392(class_2852.java:460) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2852.method_12395(class_2852.java:204) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_43375(class_3898.java:612) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:561) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:570) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3215.method_19492(class_3215.java:280) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:785) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:687) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.io.IOException: Invalid tag id: 14
+	at net.minecraft.class_4614$1.method_39878(class_4614.java:58) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4614$1.method_23264(class_4614.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4614$1.method_23262(class_4614.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487.method_10581(class_2487.java:520) ~[server-intermediary.jar:?]
+	... 44 more
+[06:38:47] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-58, z=9}
+[06:38:47] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=27, y=-57, z=8}
+[06:38:47] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-58, z=6}
+[06:38:47] [Worker-Main-6/ERROR]: Hanging entity at invalid position: class_2338{x=33, y=-57, z=4}
+[06:39:17] [Worker-Main-6/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[06:39:18] [Server thread/INFO]: Villager class_1646['Armorer'/37685, l='ServerLevel[world]', x=1942.28, y=-65.00, z=-7686.25] died, message: 'Armorer was killed'
+[06:39:18] [Server thread/INFO]: Villager class_1646['Fisherman'/37690, l='ServerLevel[world]', x=1961.07, y=-65.00, z=-7681.99] died, message: 'Fisherman was killed'
+[06:39:18] [Server thread/INFO]: Villager class_1646['Farmer'/37692, l='ServerLevel[world]', x=1982.50, y=-65.00, z=-7686.30] died, message: 'Farmer was killed'
+[06:39:18] [Server thread/INFO]: Villager class_1646['Farmer'/37693, l='ServerLevel[world]', x=1993.36, y=-65.00, z=-7685.78] died, message: 'Farmer was killed'
+[06:39:18] [Server thread/INFO]: Villager class_1646['Farmer'/37694, l='ServerLevel[world]', x=1993.43, y=-65.00, z=-7686.71] died, message: 'Farmer was killed'
+[06:39:18] [Server thread/INFO]: Villager class_1646['Farmer'/37695, l='ServerLevel[world]', x=1986.30, y=-65.00, z=-7690.49] died, message: 'Farmer was killed'
+[06:39:18] [Server thread/INFO]: Villager class_1646['Farmer'/37696, l='ServerLevel[world]', x=1986.70, y=-65.00, z=-7690.49] died, message: 'Farmer was killed'
+[06:40:15] [Server thread/INFO]: SimonPro74 was shot by Arrow
+[06:40:24] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[06:45:06] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[06:45:12] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[06:48:32] [Server thread/INFO]: Villager class_1646['Cartographer'/40447, l='ServerLevel[world]', x=1958.70, y=-65.00, z=-7658.43] died, message: 'Cartographer was killed'
+[06:48:32] [Server thread/INFO]: Villager class_1646['Fletcher'/40448, l='ServerLevel[world]', x=1965.37, y=-65.00, z=-7658.24] died, message: 'Fletcher was killed'
+[06:48:32] [Server thread/INFO]: Villager class_1646['Fletcher'/40449, l='ServerLevel[world]', x=1965.84, y=-65.00, z=-7656.29] died, message: 'Fletcher was killed'
+[06:48:32] [Server thread/INFO]: Villager class_1646['Leatherworker'/40450, l='ServerLevel[world]', x=1958.70, y=-65.00, z=-7659.52] died, message: 'Leatherworker was killed'
+[06:48:32] [Server thread/INFO]: Villager class_1646['Cartographer'/40452, l='ServerLevel[world]', x=1959.39, y=-65.00, z=-7659.03] died, message: 'Cartographer was killed'
+[06:48:32] [Server thread/INFO]: Villager class_1646['Cartographer'/40456, l='ServerLevel[world]', x=1992.30, y=-65.00, z=-7660.57] died, message: 'Cartographer was killed'
+[06:48:32] [Server thread/INFO]: Villager class_1646['Fletcher'/40457, l='ServerLevel[world]', x=1985.63, y=-65.00, z=-7660.76] died, message: 'Fletcher was killed'
+[06:48:32] [Server thread/INFO]: Villager class_1646['Fletcher'/40458, l='ServerLevel[world]', x=1985.16, y=-65.00, z=-7662.71] died, message: 'Fletcher was killed'
+[06:48:32] [Server thread/INFO]: Villager class_1646['Leatherworker'/40459, l='ServerLevel[world]', x=1992.30, y=-65.00, z=-7659.48] died, message: 'Leatherworker was killed'
+[06:48:32] [Server thread/INFO]: Villager class_1646['Cartographer'/40461, l='ServerLevel[world]', x=1991.61, y=-65.00, z=-7659.97] died, message: 'Cartographer was killed'
+[06:51:36] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[06:52:05] [Server thread/INFO]: Villager class_1646['Farmer'/41438, l='ServerLevel[world]', x=2298.78, y=-65.00, z=-7756.64] died, message: 'Farmer was killed'
+[06:52:05] [Server thread/INFO]: Villager class_1646['Farmer'/41439, l='ServerLevel[world]', x=2299.71, y=-65.00, z=-7756.57] died, message: 'Farmer was killed'
+[06:53:00] [Server thread/INFO]: Villager class_1646['Farmer'/41926, l='ServerLevel[world]', x=1963.30, y=-65.00, z=-7639.50] died, message: 'Farmer was killed'
+[06:53:00] [Server thread/INFO]: Villager class_1646['Farmer'/41927, l='ServerLevel[world]', x=1967.49, y=-65.00, z=-7635.70] died, message: 'Farmer was killed'
+[06:53:00] [Server thread/INFO]: Villager class_1646['Farmer'/41928, l='ServerLevel[world]', x=1967.49, y=-65.00, z=-7635.30] died, message: 'Farmer was killed'
+[06:53:00] [Server thread/INFO]: Villager class_1646['Farmer'/41936, l='ServerLevel[world]', x=1989.30, y=-65.00, z=-7639.50] died, message: 'Farmer was killed'
+[06:53:00] [Server thread/INFO]: Villager class_1646['Farmer'/41937, l='ServerLevel[world]', x=1993.49, y=-65.00, z=-7635.70] died, message: 'Farmer was killed'
+[06:53:00] [Server thread/INFO]: Villager class_1646['Farmer'/41938, l='ServerLevel[world]', x=1993.49, y=-65.00, z=-7635.30] died, message: 'Farmer was killed'
