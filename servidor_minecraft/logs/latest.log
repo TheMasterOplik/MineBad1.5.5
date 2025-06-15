@@ -1261,3 +1261,19 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [09:26:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [09:26:23] [Server thread/INFO]: stopsay me duermo<--[HERE]
 [09:26:28] [Server thread/INFO]: [Not Secure] [Server] me duermo
+[09:41:03] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[09:41:03] [Server thread/INFO]: SimonPro74 left the game
+[09:41:20] [Server thread/INFO]: Stopping the server
+[09:41:20] [Server thread/INFO]: Stopping server
+[09:41:20] [Server thread/INFO]: Saving players
+[09:41:20] [Server thread/INFO]: Saving worlds
+[09:41:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:41:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09:41:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09:41:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:41:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:41:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:41:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09:41:20] [Server thread/INFO]: Unloading server config for barteringstation
+[09:41:20] [Server thread/INFO]: Unloading server config for hangglider
+[09:41:20] [Server thread/INFO]: Unloading server config for iteminteractions
