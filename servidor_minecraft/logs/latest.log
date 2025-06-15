@@ -1256,3 +1256,8 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [09:11:23] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 0.8963283400680666
 [09:11:23] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.4153161882768472
 [09:11:23] [Server thread/WARN]: Horse (vehicle of SimonPro74) moved wrongly! 1.9342789154306956
+[09:26:17] [Server thread/INFO]: badbalta lost connection: Disconnected
+[09:26:17] [Server thread/INFO]: badbalta left the game
+[09:26:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[09:26:23] [Server thread/INFO]: stopsay me duermo<--[HERE]
+[09:26:28] [Server thread/INFO]: [Not Secure] [Server] me duermo
