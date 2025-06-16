@@ -9830,6 +9830,31 @@
     },
     "done": true
   },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-06-16 01:19:29 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-06-16 01:19:29 +0000",
+      "incendium:quartz_flats": "2025-06-16 01:21:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-06-16 01:21:46 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-06-16 01:19:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2025-06-16 01:10:06 +0000"
