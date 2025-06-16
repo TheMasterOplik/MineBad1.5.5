@@ -9071,6 +9071,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-16 01:46:39 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/crimson": {
+    "criteria": {
+      "has_wood": "2025-06-16 01:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-06-16 01:46:39 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/crimson/crimson_blossom_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-16 01:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-06-16 01:46:39 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/crimson": {
     "criteria": {
       "has_planks": "2025-06-16 01:07:20 +0000"
@@ -9086,6 +9116,18 @@
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-06-16 00:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-06-16 01:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-06-16 01:46:39 +0000"
     },
     "done": true
   },
@@ -9119,15 +9161,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-06-16 01:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-06-16 01:46:39 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/crimson/crimson_whispering_trapdoor": {
     "criteria": {
       "has_stems": "2025-06-16 01:07:20 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-16 01:46:39 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/crimson_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-16 01:46:39 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/crimson": {
     "criteria": {
       "has_wood": "2025-06-16 01:07:20 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/crimson_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-16 01:46:39 +0000"
     },
     "done": true
   },
@@ -9173,6 +9245,24 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2025-06-16 01:42:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/kill_sentry": {
+    "criteria": {
+      "requirement": "2025-06-16 01:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-16 01:46:39 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/crimson/crimson_paper_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-16 01:07:20 +0000"
@@ -9215,9 +9305,33 @@
     },
     "done": false
   },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2025-06-16 01:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-16 01:46:39 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/crimson_planks": {
+    "criteria": {
+      "has_planks": "2025-06-16 01:46:39 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/crimson/crimson_ranch_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-16 01:07:20 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_crimson_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-16 01:46:39 +0000"
     },
     "done": true
   },

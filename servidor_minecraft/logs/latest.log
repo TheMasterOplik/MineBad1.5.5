@@ -1043,3 +1043,21 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [01:42:12] [Server thread/INFO]: SimonPro74 has made the advancement [Pipe Dream]
 [01:42:18] [Server thread/INFO]: SimonPro74 has made the advancement [UNLIMITED POWER!!!]
 [01:42:32] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/17995, l='ServerLevel[world]', x=308.30, y=63.71, z=-1833.54] died: Pipeline Sentry was slain by badbalta using [Drevol Nâr]
+[01:42:46] [Server thread/INFO]: Command execution stopped due to limit (executed 65536 commands)
+[01:42:57] [Server thread/INFO]: SimonPro74 has reached the goal [Ceci n'est pas un blaze]
+[01:42:57] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/17996, l='ServerLevel[world]', x=321.70, y=63.43, z=-1819.23] died: Pipeline Sentry was slain by SimonPro74
+[01:43:13] [Server thread/INFO]: SimonPro74 was burned to a crisp while fighting Pipeline Sentry
+[01:43:16] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[01:43:48] [Server thread/INFO]: Command execution stopped due to limit (executed 65536 commands)
+[01:44:16] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/17963, l='ServerLevel[world]', x=330.67, y=63.00, z=-1827.71] died: Pipeline Sentry was slain by SimonPro74
+[01:45:51] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/17994, l='ServerLevel[world]', x=330.30, y=63.82, z=-1862.70] died: Pipeline Sentry was slain by SimonPro74
+[01:46:07] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/17979, l='ServerLevel[world]', x=332.70, y=64.13, z=-1880.70] died: Pipeline Sentry was slain by badbalta using [Drevol Nâr]
+[01:46:44] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/17976, l='ServerLevel[world]', x=329.31, y=63.15, z=-1887.34] died: Pipeline Sentry was slain by SimonPro74
+[01:47:09] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/17974, l='ServerLevel[world]', x=349.00, y=63.21, z=-1886.69] died: Pipeline Sentry was slain by badbalta using [Drevol Nâr]
+[01:48:24] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/20019, l='ServerLevel[world]', x=339.38, y=36.00, z=-1824.80] died: Pipeline Sentry was slain by SimonPro74
+[01:48:49] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/20082, l='ServerLevel[world]', x=357.70, y=60.59, z=-1810.30] died: Pipeline Sentry was slain by badbalta using [Drevol Nâr]
+[01:49:24] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/20013, l='ServerLevel[world]', x=340.30, y=32.15, z=-1871.70] died: Pipeline Sentry was slain by SimonPro74
+[01:50:03] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/20083, l='ServerLevel[world]', x=355.30, y=63.44, z=-1865.33] died: Pipeline Sentry was slain by badbalta using [Drevol Nâr]
+[01:51:37] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[01:52:42] [Server thread/INFO]: SimonPro74 has made the advancement [Strange Biomes]
+[01:52:42] [Server thread/INFO]: SimonPro74 has made the advancement [The Dust Settles]
