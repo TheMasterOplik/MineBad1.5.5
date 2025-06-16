@@ -9956,6 +9956,12 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-06-16 02:18:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_red_sandstone_bricks_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-06-16 01:23:05 +0000"
@@ -10008,6 +10014,7 @@
     "criteria": {
       "incendium:infernal_dunes": "2025-06-16 01:19:29 +0000",
       "incendium:quartz_flats": "2025-06-16 01:21:46 +0000",
+      "incendium:toxic_heap": "2025-06-16 02:18:19 +0000",
       "incendium:withered_forest": "2025-06-16 02:11:22 +0000"
     },
     "done": false
@@ -10243,6 +10250,12 @@
   "stoneworks:recipes/building_blocks/red_sandstone_tile_slab_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-16 02:21:39 +0000"
     },
     "done": true
   },

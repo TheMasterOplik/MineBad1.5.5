@@ -1076,3 +1076,32 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [02:10:27] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/26044, l='ServerLevel[world]', x=21.55, y=50.00, z=-2244.82] died: Headless Warrior was slain by Piglin
 [02:11:22] [Server thread/INFO]: badbalta has made the advancement [Ancient Battlefield]
 [02:11:52] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/26297, l='ServerLevel[world]', x=29.29, y=84.36, z=-2243.20] died: Headless Warrior was slain by Piglin
+[02:18:19] [Server thread/INFO]: badbalta has made the advancement [Radioactive]
+[02:20:19] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[02:20:25] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[02:20:45] [Server thread/INFO]: SimonPro74 has made the advancement [Radioactive]
+[02:21:19] [Server thread/INFO]: SimonPro74 was slain by Zombified Piglin
+[02:21:48] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[02:22:00] [Server thread/INFO]: badbalta was burned to a crisp while fighting Zombified Piglin
+[02:22:07] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[02:22:42] [Worker-Main-20/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:22:48] [Server thread/INFO]: Villager class_1646['Cartographer'/30869, l='ServerLevel[world]', x=-193.00, y=-65.00, z=-2368.53] died, message: 'Cartographer was killed'
+[02:24:02] [Server thread/INFO]: badbalta was fireballed by Ghast
+[02:24:06] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[02:25:49] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/31133, l='ServerLevel[world]', x=-51.74, y=-20.00, z=-2414.26] died: Toxic Slime was killed
+[02:26:09] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/31384, l='ServerLevel[world]', x=-70.35, y=-20.00, z=-2430.55] died: Toxic Slime was killed
+[02:26:22] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/31571, l='ServerLevel[world]', x=-82.77, y=-20.00, z=-2425.16] died: Toxic Slime was killed
+[02:26:48] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/33511, l='ServerLevel[world]', x=3.51, y=75.00, z=-2877.26] died: Headless Warrior was slain by Piglin
+[02:27:08] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/32502, l='ServerLevel[world]', x=-58.26, y=-20.00, z=-2364.26] died: Toxic Slime was killed
+[02:28:09] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:28:21] [Worker-Main-19/WARN]: Empty or non-existent pool: minecraft:
+[02:28:21] [Worker-Main-19/WARN]: Empty or non-existent pool: minecraft:
+[02:28:21] [Worker-Main-19/WARN]: Empty or non-existent pool: minecraft:
+[02:28:21] [Worker-Main-19/WARN]: Empty or non-existent pool: minecraft:
+[02:28:21] [Worker-Main-19/WARN]: Empty or non-existent pool: minecraft:
+[02:28:25] [Server thread/INFO]: Villager class_1646['Cartographer'/36418, l='ServerLevel[world]', x=-225.00, y=-65.00, z=-3248.53] died, message: 'Cartographer was killed'
+[02:28:46] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/34117, l='ServerLevel[world]', x=-2.67, y=-20.00, z=-2317.84] died: Restless Spirit was killed
+[02:29:31] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/37408, l='ServerLevel[world]', x=14.39, y=51.00, z=-2241.36] died: Headless Warrior was slain by Piglin Brute
+[02:29:48] [Worker-Main-18/ERROR]: Hanging entity at invalid position: class_2338{x=-164, y=-1, z=-74}
+[02:29:48] [Worker-Main-18/ERROR]: Hanging entity at invalid position: class_2338{x=-164, y=-1, z=-77}
+[02:32:01] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/39978, l='ServerLevel[world]', x=15.75, y=50.00, z=-2245.57] died: Headless Warrior was slain by Piglin Brute
