@@ -1061,3 +1061,7 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [01:51:37] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
 [01:52:42] [Server thread/INFO]: SimonPro74 has made the advancement [Strange Biomes]
 [01:52:42] [Server thread/INFO]: SimonPro74 has made the advancement [The Dust Settles]
+[01:53:32] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/20008, l='ServerLevel[world]', x=344.13, y=1.20, z=-1781.86] died: Pipeline Sentry was shot by SimonPro74
+[01:54:17] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/20009, l='ServerLevel[world]', x=344.14, y=1.00, z=-1792.14] died: Pipeline Sentry was slain by SimonPro74
+[02:01:17] [Server thread/INFO]: SimonPro74 has made the advancement [Hellish Paradise]
+[02:02:51] [Server thread/INFO]: SimonPro74 has made the advancement [The Floor is Tears]
