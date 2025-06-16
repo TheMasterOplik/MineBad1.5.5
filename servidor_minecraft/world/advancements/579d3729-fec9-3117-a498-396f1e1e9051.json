@@ -10019,6 +10019,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-06-16 04:12:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_sandstone_wall": {
     "criteria": {
       "has_red_sandstone": "2025-06-16 01:23:05 +0000"
@@ -10046,6 +10052,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_red_sandstone_stairs_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-06-16 04:12:16 +0000"
     },
     "done": true
   },
