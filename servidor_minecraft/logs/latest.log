@@ -1065,3 +1065,14 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [01:54:17] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/20009, l='ServerLevel[world]', x=344.14, y=1.00, z=-1792.14] died: Pipeline Sentry was slain by SimonPro74
 [02:01:17] [Server thread/INFO]: SimonPro74 has made the advancement [Hellish Paradise]
 [02:02:51] [Server thread/INFO]: SimonPro74 has made the advancement [The Floor is Tears]
+[02:04:14] [Server thread/INFO]: SimonPro74 burned to death
+[02:04:34] [Server thread/INFO]: Villager class_1646['Cartographer'/24410, l='ServerLevel[world]', x=130.00, y=-65.00, z=-2222.47] died, message: 'Cartographer was killed'
+[02:04:48] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[02:08:00] [Server thread/INFO]: SimonPro74 has made the advancement [Ancient Battlefield]
+[02:09:05] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/25124, l='ServerLevel[world]', x=44.78, y=91.00, z=-2248.20] died: Headless Warrior was shot by Piglin
+[02:09:52] [Server thread/INFO]: SimonPro74 was slain by Piglin Brute
+[02:09:57] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[02:10:04] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/26016, l='ServerLevel[world]', x=25.63, y=51.00, z=-2236.30] died: Headless Warrior was slain by Piglin Brute
+[02:10:27] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/26044, l='ServerLevel[world]', x=21.55, y=50.00, z=-2244.82] died: Headless Warrior was slain by Piglin
+[02:11:22] [Server thread/INFO]: badbalta has made the advancement [Ancient Battlefield]
+[02:11:52] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/26297, l='ServerLevel[world]', x=29.29, y=84.36, z=-2243.20] died: Headless Warrior was slain by Piglin

@@ -9842,6 +9842,12 @@
     },
     "done": true
   },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-06-16 02:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2025-06-16 01:23:05 +0000"
@@ -10001,7 +10007,8 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:infernal_dunes": "2025-06-16 01:19:29 +0000",
-      "incendium:quartz_flats": "2025-06-16 01:21:46 +0000"
+      "incendium:quartz_flats": "2025-06-16 01:21:46 +0000",
+      "incendium:withered_forest": "2025-06-16 02:11:22 +0000"
     },
     "done": false
   },
@@ -10050,6 +10057,12 @@
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2025-06-16 01:23:17 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/mossy_waystone_from_vines": {
+    "criteria": {
+      "has_waystone": "2025-06-16 02:03:37 +0000"
     },
     "done": true
   },
