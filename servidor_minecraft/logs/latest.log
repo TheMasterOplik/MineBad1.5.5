@@ -1023,3 +1023,23 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [01:19:29] [Server thread/INFO]: badbalta has made the advancement [Strange Biomes]
 [01:19:29] [Server thread/INFO]: badbalta has made the advancement [Darude - Firestorm]
 [01:21:46] [Server thread/INFO]: badbalta has made the advancement [Hellish Paradise]
+[01:23:54] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[01:24:34] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:26:28] [Server thread/INFO]: SimonPro74 was slain by Piglin Brute
+[01:26:33] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[01:28:45] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[01:28:58] [Server thread/INFO]: SimonPro74 burned to death
+[01:29:01] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[01:34:12] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[01:34:16] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[01:39:44] [Worker-Main-18/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:40:46] [Server thread/INFO]: Villager class_1646['Cartographer'/20448, l='ServerLevel[world]', x=495.47, y=-65.00, z=-1774.00] died, message: 'Cartographer was killed'
+[01:41:06] [Server thread/INFO]: badbalta has made the advancement [Pipe Dream]
+[01:41:09] [Server thread/INFO]: badbalta has made the advancement [UNLIMITED POWER!!!]
+[01:41:32] [Server thread/INFO]: Command execution stopped due to limit (executed 65536 commands)
+[01:41:58] [Server thread/INFO]: badbalta has reached the goal [Ceci n'est pas un blaze]
+[01:41:58] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/17992, l='ServerLevel[world]', x=299.35, y=63.52, z=-1825.70] died: Pipeline Sentry was slain by badbalta using [Drevol Nâr]
+[01:42:11] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[01:42:12] [Server thread/INFO]: SimonPro74 has made the advancement [Pipe Dream]
+[01:42:18] [Server thread/INFO]: SimonPro74 has made the advancement [UNLIMITED POWER!!!]
+[01:42:32] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/17995, l='ServerLevel[world]', x=308.30, y=63.71, z=-1833.54] died: Pipeline Sentry was slain by badbalta using [Drevol Nâr]

@@ -9818,9 +9818,147 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/red_sandstone_shingle_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_bricks_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
   "incendium:root": {
     "criteria": {
       "requirement": "2025-06-16 01:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_shingle_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_shingles_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_red_sandstone_tiles_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/red_sandstone": {
+    "criteria": {
+      "has_planks": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-06-16 01:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_tiles_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_red_sandstone_brick_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/red_sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_red_sandstone_bricks_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_orange_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_tile_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_pavers_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-06-16 01:41:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_red_sandstone_bricks_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
     },
     "done": true
   },
@@ -9836,6 +9974,30 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/red_sandstone": {
+    "criteria": {
+      "has_planks": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_red_sandstone_brick_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:infernal_dunes": "2025-06-16 01:19:29 +0000",
@@ -9843,9 +10005,165 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/red_sandstone_wall": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_tile_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-06-16 01:22:54 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_plate_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-06-16 01:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-06-16 01:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-06-16 01:22:54 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_brick_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_brick_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2025-06-16 01:41:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_shingle_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_plate_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_paver_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_paver_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
   "incendium:quartz_flats/root": {
     "criteria": {
       "requirement": "2025-06-16 01:21:46 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_plate_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_red_sandstone_brick_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_pillar_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/red_sandstone": {
+    "criteria": {
+      "has_wood": "2025-06-16 01:23:05 +0000"
     },
     "done": true
   },
@@ -9858,6 +10176,54 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2025-06-16 01:10:06 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2025-06-16 01:41:09 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_plates_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_paver_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_brick_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/orange_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_tile_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-16 01:23:05 +0000"
     },
     "done": true
   },
