@@ -1107,3 +1107,7 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [02:32:01] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/39978, l='ServerLevel[world]', x=15.75, y=50.00, z=-2245.57] died: Headless Warrior was slain by Piglin Brute
 [02:35:26] [Server thread/INFO]: SimonPro74 was killed
 [02:35:26] [Server thread/INFO]: [badbalta: Killed SimonPro74]
+[02:57:16] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[02:57:16] [Server thread/INFO]: SimonPro74 left the game
+[03:00:15] [Server thread/INFO]: [badbalta: Teleported badbalta to 65.500000, 83.500000, -1074.500000]
+[03:02:58] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
