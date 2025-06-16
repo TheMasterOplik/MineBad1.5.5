@@ -981,3 +981,6 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [00:25:35] [Server thread/INFO]: [badbalta: Teleported badbalta to 1467.500000, -5.500000, -7805.500000]
 [00:33:04] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
 [00:36:59] [Server thread/INFO]: [Not Secure] [Server] hola
+[00:47:49] [Server thread/INFO]: badbalta lost connection: Disconnected
+[00:47:49] [Server thread/INFO]: badbalta left the game
+[00:48:10] [Server thread/INFO]: [Not Secure] [Server] hola
