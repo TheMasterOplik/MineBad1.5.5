@@ -1129,3 +1129,19 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [04:18:52] [Server thread/INFO]: SimonPro74 lost connection: Timed out
 [04:18:52] [Server thread/INFO]: SimonPro74 left the game
 [04:18:52] [Server thread/WARN]: handleDisconnection() called twice
+[04:43:42] [Server thread/INFO]: SimonPro74[/100.90.218.55:54119] logged in with entity id 83811 at (739.3345129489217, 95.0, -8294.5415459134)
+[04:43:42] [Server thread/INFO]: Loading config from file...
+[04:43:42] [Server thread/INFO]: SimonPro74 joined the game
+[04:43:48] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[04:45:40] [Server thread/INFO]: SimonPro74 was killed
+[04:45:40] [Server thread/INFO]: [badbalta: Killed SimonPro74]
+[04:45:44] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[04:48:12] [Server thread/INFO]: SimonPro74 was killed
+[04:48:12] [Server thread/INFO]: [badbalta: Killed SimonPro74]
+[04:48:12] [Server thread/INFO]: SimonPro74 lost connection: Timed out
+[04:48:12] [Server thread/INFO]: SimonPro74 left the game
+[04:48:19] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
+[04:52:33] [Server thread/INFO]: [Not Secure] [Server] hola
+[04:53:03] [Server thread/INFO]: SimonPro74[/100.90.218.55:54138] logged in with entity id 89993 at (699.6915532926473, 97.0, -8268.585345259573)
+[04:53:03] [Server thread/INFO]: Loading config from file...
+[04:53:03] [Server thread/INFO]: SimonPro74 joined the game
