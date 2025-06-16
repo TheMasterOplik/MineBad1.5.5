@@ -973,3 +973,11 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [00:18:10] [Server thread/INFO]: badbalta joined the game
 [00:19:25] [Server thread/INFO]: badbalta lost connection: Disconnected
 [00:19:25] [Server thread/INFO]: badbalta left the game
+[00:22:40] [Server thread/INFO]: badbalta[/100.85.90.122:53472] logged in with entity id 827 at (654.8588204858265, 134.0, -8735.620307988858)
+[00:22:40] [Server thread/INFO]: Loading config from file...
+[00:22:40] [Server thread/INFO]: badbalta joined the game
+[00:25:18] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
+[00:25:25] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
+[00:25:35] [Server thread/INFO]: [badbalta: Teleported badbalta to 1467.500000, -5.500000, -7805.500000]
+[00:33:04] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
+[00:36:59] [Server thread/INFO]: [Not Secure] [Server] hola
