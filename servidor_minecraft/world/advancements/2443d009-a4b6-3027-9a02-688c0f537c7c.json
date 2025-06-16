@@ -9681,5 +9681,17 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-16 03:55:45 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-16 03:55:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }

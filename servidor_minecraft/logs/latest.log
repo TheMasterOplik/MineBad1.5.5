@@ -1119,3 +1119,9 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [03:38:18] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
 [03:39:10] [Server thread/INFO]: SimonPro74 burned to death
 [03:42:11] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
+[04:06:13] [Server thread/INFO]: [badbalta: Set the time to 13000]
+[04:09:58] [Server thread/INFO]: [Not Secure] [Server] hola
+[04:10:32] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
+[04:10:59] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[04:12:31] [Server thread/INFO]: SimonPro74 tried to swim in lava
+[04:13:35] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
