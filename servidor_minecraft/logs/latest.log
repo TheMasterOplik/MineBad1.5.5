@@ -1149,3 +1149,21 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [05:04:16] [Server thread/INFO]: [badbalta: Killed SimonPro74]
 [05:05:32] [Server thread/INFO]: [Not Secure] [Server] hola
 [05:15:54] [Server thread/INFO]: [Not Secure] [Server] hola
+[05:18:20] [Server thread/INFO]: [badbalta: Teleported badbalta to SimonPro74]
+[05:23:35] [Server thread/INFO]: [badbalta: Set the time to 13000]
+[05:26:52] [Server thread/INFO]: badbalta lost connection: Disconnected
+[05:26:52] [Server thread/INFO]: badbalta left the game
+[05:26:58] [Server thread/INFO]: [Not Secure] [Server] hola
+[05:27:03] [Server thread/INFO]: badbalta[/100.85.90.122:54064] logged in with entity id 103185 at (701.6743575483316, 94.0, -8269.537073166966)
+[05:27:03] [Server thread/INFO]: Loading config from file...
+[05:27:03] [Server thread/INFO]: badbalta joined the game
+[05:27:41] [Server thread/INFO]: [badbalta: Teleported SimonPro74 to badbalta]
+[05:27:56] [Server thread/INFO]: SimonPro74 lost connection: Disconnected
+[05:27:56] [Server thread/INFO]: SimonPro74 left the game
+[05:32:35] [Server thread/INFO]: badbalta lost connection: Disconnected
+[05:32:35] [Server thread/INFO]: badbalta left the game
+[05:32:53] [Server thread/INFO]: [Not Secure] [Server] hola
+[05:33:04] [Server thread/INFO]: badbalta[/100.85.90.122:54081] logged in with entity id 104427 at (710.0746059234797, 94.9375, -8267.659593288634)
+[05:33:04] [Server thread/INFO]: Loading config from file...
+[05:33:04] [Server thread/INFO]: badbalta joined the game
+[05:36:12] [Server thread/INFO]: [badbalta: Teleported badbalta to 672.500000, 134.500000, -8711.500000]
